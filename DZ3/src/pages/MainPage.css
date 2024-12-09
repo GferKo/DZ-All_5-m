@@ -1,0 +1,17 @@
+body {
+    color: white;
+    background-color: black;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    border: 1px solid #989898;
+    border-radius: 20px;
+}
+
+li {
+    border-bottom: 1px solid #989898;
+    font-size: 20px;
+}
